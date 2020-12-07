@@ -49,7 +49,7 @@ Call "help" to see a list of available commands.
 
 ## Issues
 - Some bluetooth adapters seem to cause disconnects for reasons unknown, try to use an usb adapter instead 
-- Incompatibility with Bluetooth "input" plugin requires a bluetooth restart, see [#8](https://github.com/mart1nro/joycontrol/issues/8)
+- Incompatibility with Bluetooth "input" plugin requires a bluetooth restart
 - It seems like the Switch is slower processing incoming messages while in the "Change Grip/Order" menu.
   This causes flooding of packets and makes pairing somewhat inconsistent.
   Not sure yet what exactly a real controller does to prevent that.
