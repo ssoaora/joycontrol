@@ -1,4 +1,4 @@
-# joycontrol
+# joycontrol (Archived for NFC patch)
 Emulate Nintendo Switch Controllers over Bluetooth.
 
 Tested on Ubuntu 19.10, and with Raspberry Pi 3B+ and 4B Raspbian GNU/Linux 10 (buster)
